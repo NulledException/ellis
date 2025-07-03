@@ -1,3 +1,6 @@
+1ª Palavra-chave: Marvel
+2ª Palavra-chave: Ellis
+
 # Imersão DevOps - Alura Google Cloud
 
 Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
