@@ -1,5 +1,6 @@
 1ª Palavra-chave: Marvel
 2ª Palavra-chave: Ellis
+3ª Palavra-chave: YAML
 
 # Imersão DevOps - Alura Google Cloud
 
@@ -51,6 +52,16 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
    [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
    Aqui você pode testar todos os endpoints da API de forma interativa.
+
+---
+
+## Autenticando no Google Cloud
+
+```sh
+gcloud auth login
+gcloud config set project PROJECT_ID
+gcloud run deploy --port=8000
+```
 
 ---
 
